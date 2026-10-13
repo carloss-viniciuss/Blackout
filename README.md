@@ -1,1 +1,4 @@
 # Blackout
+Blackout é um jogo de perseguição em labirinto, no estilo Pac-Man, feito em C para rodar no terminal. A história se passa no prédio do CESAR durante uma queda de energia na véspera da entrega de um projeto. O jogador precisa recolher os pen drives com o código do grupo, que ficaram espalhados pelos corredores, enquanto foge dos robôs de segurança, que entraram em modo de emergência.
+
+O jogador se move pelo labirinto coletando os itens. Três robôs andam pelo mapa com comportamentos diferentes: um persegue o jogador pelo caminho mais curto, outro tenta cercá-lo pela frente e o terceiro anda de forma aleatória. Se um robô encosta no jogador, ele perde uma vida. Pegando uma lanterna, os robôs fogem por alguns segundos e podem ser desligados. Quando todos os pen drives são coletados, o jogador sobe para o próximo andar, com robôs mais rápidos.
