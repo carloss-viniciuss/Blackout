@@ -1,0 +1,7 @@
+*.exe
+*.o
+ranking.txt
+build/
+src/output/
+.vscode/launch.json
+.vscode/settings.json
